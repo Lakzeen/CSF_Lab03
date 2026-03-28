@@ -49,13 +49,13 @@ Takes two numbers from the user
 
 Shows a menu with 4 operations:
 
-1 = Addition ➕
+1 = Addition 
 
-2 = Subtraction ➖
+2 = Subtraction 
 
-3 = Multiplication ✖️
+3 = Multiplication 
 
-4 = Division ➗
+4 = Division 
 
 Performs the chosen operation and displays the result
 
